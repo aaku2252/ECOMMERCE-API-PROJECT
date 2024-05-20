@@ -4,3 +4,11 @@ Add a product
 Get one product
 Rate product.
 Filter Product
+
+Rate product.
+Add items to Cart
+Get items of the Cart
+Remove items from Cart.
+User controller 
+signup - Email,Name, Password, Type of User(Customer, seller)
+Sign in - email , Password
