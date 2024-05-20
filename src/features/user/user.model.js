@@ -26,7 +26,7 @@ export default class UserModel {
     }
 }
 
-let users = [
+var users = [
     {
         id: 1,
         name: "Seller User",
